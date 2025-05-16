@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luky\\source\\repos\\hudebni skupiny\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F71AFD4C-3127-4FCD-5368-07DB529072B2}|C:\\HTML work\\hudebni skupiny|c:\\html work\\hudebni skupiny\\fanpage hudebnich skupin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fanpage hudebnich skupin.html",
+              "DocumentMoniker": "C:\\HTML work\\hudebni skupiny\\fanpage hudebnich skupin.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\HTML work\\hudebni skupiny\\fanpage hudebnich skupin.html",
+              "ToolTip": "C:\\HTML work\\hudebni skupiny\\fanpage hudebnich skupin.html",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\HTML work\\hudebni skupiny\\fanpage hudebnich skupin.html",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwF4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-18T07:15:51.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
